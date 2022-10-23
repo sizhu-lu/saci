@@ -7,7 +7,7 @@
 fsa_point(X, Z, Y, epsilon1, epsilon0, truncpscore = c(0, 1))
 }
 \arguments{
-\item{X}{an R array}
+\item{X}{an R array consisting all observed covariates}
 
 \item{Y}{an R array}
 }

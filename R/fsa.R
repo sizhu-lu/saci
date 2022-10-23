@@ -8,7 +8,7 @@ NULL
 #'
 #' Your description goes here: example: Creates a plot of the crayon colors in \code{\link{brocolors}}
 #'
-#' @param X an R array
+#' @param X an R array consisting all observed covariates
 #' @param Y an R array
 #' @return A number.
 #' @examples
